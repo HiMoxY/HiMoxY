@@ -1,0 +1,14 @@
+{
+  "name": "himoxytm",
+  "version": "0.0.1",
+  "description": "the best bots on morocco pubing",
+  "main": "ou",
+  "scripts": {
+    "test": "-himox"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
